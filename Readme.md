@@ -154,6 +154,3 @@ optional arguments:
 1. Save the script as `pension_credit_calculator.py`.
 2. Run the script from the command line with the required arguments.
 
----
-
-This Markdown documentation provides a clear and structured explanation of the script. Let me know if you need further assistance!
