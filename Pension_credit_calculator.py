@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# Fergus Leen, Cardiff,  Dec 2024
+
 import argparse
 import sys
 
